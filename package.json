@@ -1,0 +1,20 @@
+{
+   "name": "cmd-line-args",
+   "version": "0.1.0",
+   "description": "Tiny wrapper for \"command-line-args\" and \"command-line-usage\"",
+   "main": "cmdLineArgs.js",
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/antti5/cmd-line-args.git"
+   },
+   "author": "Antti Salonen <antti.k.salonen@gmail.com>",
+   "license": "MIT",
+   "bugs": {
+      "url": "https://github.com/antti5/cmd-line-args/issues"
+   },
+   "homepage": "https://github.com/antti5/cmd-line-args#readme",
+   "dependencies": {
+      "command-line-args": "6.0.2",
+      "command-line-usage": "7.0.4"
+   }
+}
