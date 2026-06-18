@@ -85,4 +85,4 @@ const cmdLineArgs = (name, description, argDefinitions) => {
    return args;
 };
 
-export default commandLineArgs;
+export default cmdLineArgs;

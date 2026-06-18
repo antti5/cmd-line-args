@@ -1,7 +1,8 @@
 {
    "name": "@antti5/cmd-line-args",
-   "version": "0.1.0",
+   "version": "0.1.1",
    "description": "Tiny wrapper for \"command-line-args\" and \"command-line-usage\"",
+   "type": "module",
    "main": "cmdLineArgs.js",
    "repository": {
       "type": "git",
