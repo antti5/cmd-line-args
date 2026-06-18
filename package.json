@@ -1,5 +1,5 @@
 {
-   "name": "cmd-line-args",
+   "name": "@antti5/cmd-line-args",
    "version": "0.1.0",
    "description": "Tiny wrapper for \"command-line-args\" and \"command-line-usage\"",
    "main": "cmdLineArgs.js",
